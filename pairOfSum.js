@@ -16,5 +16,5 @@ function twosums(nums, target) {
     }
   };
 
- var result =  twosums([50,20,40,50,60,70],50);
+ var result =  twosums([50,20,40,50,60,70],100);
   console.log(result);
